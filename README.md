@@ -25,6 +25,6 @@ Caso rode no modo desenvolvimento, é recomendável utilizar parâmetro reload, 
 (env)$ flask run --host 0.0.0.0 --port 5000 -- reload
 ```
 
-Só abrir o [http://localhost:5000/#/] no navegador para ver a aplicação sendo executada. 
+Só abrir o [http://localhost:5000/#/] no navegador para ver a aplicação sendo executada. Para acessar o swagger, utilize [http://localhost:5000/openapi3]. 
 
 
